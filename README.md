@@ -1,6 +1,6 @@
 <div align="center" >
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b1f20,100:710c04&reversal=true&height=120&width=100%&section=header">
-<img src="https://github.com/arlindx/arlindx/assets/139892800/24a18cc7-675a-430a-b357-6f88902ef302">
+<img width="600px" height="300px" src="https://github.com/arlindx/arlindx/assets/139892800/24a18cc7-675a-430a-b357-6f88902ef302">
 <hr style="border: 1px solid black;">  
  
 </div>
