@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B30000&center=true&vCenter=true&width=1200&lines=Hey%2C+I'am+Arlindx.)](https://git.io/typing-svg)
 
 <div align="center">
- <strong aling="center"> <p> I am a cyber security student and programmer, I have been studying for 2 years and currently have this as a hobby </p> </strong>
+ <strong aling="center"> <p> I am a cybersecurity student and a programming enthusiast, I have been studying for 1 year and currently have this as a hobby </p> </strong>
  <hr style="border: 1px solid black;">  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b1f20,100:710c04&reversal=true&height=120&width=100%&section=header">
